@@ -1,17 +1,16 @@
 {
-  "name": "bower-json",
+  "name": "blockify-json",
   "version": "0.4.0",
-  "description": "Read bower.json files with semantics, normalisation, defaults and validation.",
-  "author": "Twitter",
+  "description": "Read block.json files with semantics, normalisation, defaults and validation.",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/bower/json/blob/master/LICENSE"
+      "url": "https://github.com/blockify/json/blob/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bower/json.git"
+    "url": "git://github.com/blockify/json.git"
   },
   "main": "lib/json",
   "engines": {
